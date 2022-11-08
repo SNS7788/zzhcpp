@@ -12,7 +12,8 @@ typedef unsigned long uint32;
 #define DATAPIN 0
 uint32 databuf;
 
- 
+ //duohexin
+
  
 void readSensorData(void)
 {
