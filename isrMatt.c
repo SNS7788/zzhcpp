@@ -16,7 +16,7 @@ typedef unsigned long uint32;
 
 #define DATAPIN 0
 uint32 databuf;
-
+//ssddds
 int r=15,g=100,b=255;
 
 void setBGColor(unsigned char red, unsigned char green, unsigned blue)
